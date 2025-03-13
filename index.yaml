@@ -3,7 +3,17 @@ entries:
   appteste:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-13T14:22:51.358682477Z"
+    created: "2025-03-13T14:23:50.011126525Z"
+    description: A Helm chart for Kubernetes
+    digest: 04c07933caf3577b546264974493424c0396ddc2998255ac096b1ab0acf58145
+    name: appteste
+    type: application
+    urls:
+    - git@github.com:secopsninjaaws/TodoList_Helm.git/appteste-65.tgz
+    version: "65"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-13T14:23:50.010414586Z"
     description: A Helm chart for Kubernetes
     digest: 4981c4fb16eadb3406e992d85552a0c8d01c5a2c7c4f24ba900c87bfdb4c4f36
     name: appteste
@@ -13,7 +23,7 @@ entries:
     version: "64"
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-13T14:22:51.358036753Z"
+    created: "2025-03-13T14:23:50.009688905Z"
     description: A Helm chart for Kubernetes
     digest: 52db37bebbf2f04c0d0b18cf455dc5fd4ddece09fafa4f3ef0867d26bf7fa5b5
     name: appteste
@@ -23,7 +33,7 @@ entries:
     version: "63"
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-13T14:22:51.357457394Z"
+    created: "2025-03-13T14:23:50.008970126Z"
     description: A Helm chart for Kubernetes
     digest: f3ca628df743fac9dbbb07a4a82d0df9a671b12fd4479871191745df641d9cc0
     name: appteste
@@ -31,4 +41,4 @@ entries:
     urls:
     - git@github.com:secopsninjaaws/TodoList_Helm.git/appteste-62.tgz
     version: "62"
-generated: "2025-03-13T14:22:51.356674557Z"
+generated: "2025-03-13T14:23:50.008050086Z"
